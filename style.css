@@ -1,0 +1,36 @@
+body {
+    background-color: lavenderblush;
+}
+h1 {
+text-align: center;
+border: solid 3px black;
+background-color: cadetblue;
+font-size: 40px;
+padding: 5px 10px 10px 5px;
+}
+nav > ul > li{
+border: solid 2px black;
+display: inline;
+margin: 100px;
+padding: 3px;
+font-size: 20px;
+font-style: normal;
+}
+
+#hero {
+    width: 600px;
+}
+
+section > p {
+    background-color: #6B2D4A;
+}
+
+footer p{
+    text-align: center;
+    display: inline;
+    margin: 30px;
+}
+
+
+
+
