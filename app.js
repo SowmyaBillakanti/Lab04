@@ -1,11 +1,14 @@
 'use strict'
 
-var username = prompt('Please Enter your Name ');
+var username = prompt('Enter your name for a Free Coffee ');
 
-alert('Hello ' + username);
+if (username === 'Sowmya')
+
+    alert('Life is great with coffee!')
+
 
 if (username === "Sowmya"){
-    document.write('<h2>' + 'Welcome Billakanti ' + username + '</h2>')
+    document.write('<h2>' + 'Congratulations! Here is your free coffee ' + username + '</h2>')
 } else {
-    document.write('<h2>' + 'Welcome ' + username + '</h2>')
+    document.write('<h2>' + 'OOPS! Better luck next time' + '</h2>')
 }
