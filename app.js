@@ -2,7 +2,6 @@
 
 var username = prompt('Enter your name for a Free Coffee ');
 
-if (username === 'Sowmya')
 
     alert('Life is great with coffee!')
 
