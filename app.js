@@ -39,7 +39,7 @@
 // writeToWebPage("Thanks for visiting. Please come back again!")
 
 function numberGuessingGame() {
-    var correctAnswer = 37;
+    var correctAnswer = 16;
     var playGame = prompt('Do you want to play a game?');
     while(playGame === 'Yes'){
         for (var i = 0; i < 5; i = i + 1){
